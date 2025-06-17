@@ -1,5 +1,5 @@
 
-### Olá pessoa que está no meu perfil, meu nome é Vitor Almeida 🙉
+### Olá pessoa que está no meu perfil, meu nome é Vitor Almeida 
 
 ## Minhas abilidades:
 
