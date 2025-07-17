@@ -1,15 +1,30 @@
+<h1 align="center">Hello Word</h1>
 
-### Olá pessoa que está no meu perfil, meu nome é Vitor Almeida 
+###
 
-## Minhas abilidades:
-
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img aling="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img aling="center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
-![Anurag](https://github-readme-stats.vercel.app/api?username=VitorAlmeidaDuarte&show_icons=true&theme=radical)
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VitorAlmeidaDuarte&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=VitorAlmeidaDuarte&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorAlmeidaDuarte/VitorAlmeidaDuarte/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorAlmeidaDuarte/VitorAlmeidaDuarte/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VitorAlmeidaDuarte/VitorAlmeidaDuarte/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VitorAlmeidaDuarte.VitorAlmeidaDuarte&"  />
+</div>
+
+###
